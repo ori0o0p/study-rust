@@ -1,5 +1,3 @@
-use std::cmp::min;
-
 fn main() {
     let mut min_ju = 1;
     min_ju += 100;
